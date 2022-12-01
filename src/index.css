@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MuiCardHeader-title {
+  font-weight: 600 !important;
+  font-size: 30px !important;
+}
+
+.css-u4qawq-MuiButtonBase-root-MuiIconButton-root:hover {
+  background-color: transparent !important;
+}
+
+.css-10hburv-MuiTypography-root {
+  font-size: 16px !important;
+  fontweight: 700 !important;
+}
+
+.header-sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 36px;
+}
+
+.heading {
+  font-size: 36px;
+  margin: 14px 0px;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-color: transparent !important;
+}
+
+.active {
+  background-color: #fff9aa !important;
+}
+
+.activeTwo,
+.activeThree {
+  background-color: #fdec74 !important;
+}
